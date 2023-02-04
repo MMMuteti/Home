@@ -2,9 +2,10 @@
 Week 1 Project
 
 ## Author Name
-Moses Mbugua
+Moses Mbugua, Mr.
 
 ## Description of Project
+In the journey towards becoming a developer, this project is a showcase of what I have learnt so far. The journey of a thousand miles starts with one step! Here we go!
 
 ## Project Setup Instructions
 
@@ -13,4 +14,4 @@ Moses Mbugua
 https://MMMuteti.github.io/Home
 
 ## Copyright and license information
-(c) Moses Mbugua
+(c) Moses Mbugua - 2023
