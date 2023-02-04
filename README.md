@@ -5,6 +5,7 @@ Week 1 Project
 Moses Mbugua
 
 ## Description of Project
+In the journey towards becoming a developer, this project is a showcase of what I have learnt so far. The journey of a thousand miles starts with one step! Here we go!
 
 ## Project Setup Instructions
 
