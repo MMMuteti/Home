@@ -1,0 +1,27 @@
+h3{
+    background-color: navy;
+    color: aliceblue;
+    text-align: center;
+  }
+
+h4{
+    text-align: left;
+    border: black;
+  }
+
+* {
+    box-sizing: border-box;
+  }
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
