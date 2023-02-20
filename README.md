@@ -11,7 +11,7 @@ In the journey towards becoming a developer, this project is a showcase of what 
 
 
 ## Project Setup Instructions
-The project requires 
+The project requires the student tocreate a landing page about himself and commit the page to Githu. The ask is to employ the different programming styles learnt in week 1 of the course.
 
 ## Link to live site on GitHub Pages
 https://MMMuteti.github.io/Home
