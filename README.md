@@ -11,7 +11,7 @@ In the journey towards becoming a developer, this project is a showcase of what 
 
 
 ## Project Setup Instructions
-
+The project requires 
 
 ## Link to live site on GitHub Pages
 https://MMMuteti.github.io/Home
