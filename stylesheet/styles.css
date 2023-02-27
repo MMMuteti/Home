@@ -37,3 +37,15 @@ h3{
     text-align: center;
     color: aliceblue;
   }
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+img {
+  float:center;
+}
