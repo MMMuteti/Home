@@ -61,6 +61,13 @@ header a:hover{
 	font-weight: bold;
 }
 
+.sidebar {
+  width: 82%;
+  float: right;
+  align: center;
+  background-color: #grey;
+}
+
 /*Boxes*/
 #boxes{
 	margin-top: 20px;
@@ -151,14 +158,6 @@ h3 {
     text-align: center;
     color: aliceblue;
   }
-
-.important {
-  color: red;
-}
-
-.unimportant {
-  color: blue;
-}
 
 img {
   float:center;
